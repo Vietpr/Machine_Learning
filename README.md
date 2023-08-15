@@ -1,4 +1,4 @@
-# Machine_Learning
+# House Price Prediction Project
 # Introduction
 Hello everyone! Welcome to the Housing Price Competition project using Machine Learning. The main objective of this project is to apply Machine Learning techniques to predict housing prices based on various related features. It's an exciting project that offers a hands-on experience with real-world data and the opportunity to build predictive models.
 
@@ -23,8 +23,8 @@ The efficacy of our models is measured through key metrics such as Root Mean Squ
 # References
 For further guidance and resources, consider referring to the following sources:
 
-Kaggle Learn: https://www.kaggle.com/learn
-Scikit-learn Documentation: https://scikit-learn.org/stable/documentation.html
-Pandas Documentation: https://pandas.pydata.org/pandas-docs/stable/index.html
-NumPy Documentation: https://numpy.org/doc/stable/
++ Kaggle Learn: https://www.kaggle.com/learn
++ Scikit-learn Documentation: https://scikit-learn.org/stable/documentation.html
++ Pandas Documentation: https://pandas.pydata.org/pandas-docs/stable/index.html
++ NumPy Documentation: https://numpy.org/doc/stable/
 Feel free to explore, learn, and immerse yourself in the exciting world of applying Machine Learning techniques to real-world scenarios!
